@@ -23,5 +23,4 @@ This is a **Retrieval-Augmented Generation (RAG)** based chatbot built using **D
 3. LLM generates the answer using the retrieved context
 4. Response is shown with source citation
 
-## Screenshots
-(Add screenshots of the working chatbot here)
+
